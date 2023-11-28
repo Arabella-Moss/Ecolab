@@ -1,6 +1,6 @@
 # Ecolab
 
-Ecolab is a platform designed to empower high school students (aged 13 - 18) to explore innovative design solutions at the intersection of nature, design, and technology. Through engaging with a series of prompts, users are encouraged to dream up new dynamic design possibilities to combat the climate crisis. 
+Ecolab is a platform designed to empower high school students (aged 13 - 18) to explore innovative design solutions to the climate crisis at the intersection of nature, design, and technology. Through engaging with a series of prompts, users are encouraged to dream up new dynamic design possibilities where products and structures can grow, heal, and adapt.
 
 
 ## Features

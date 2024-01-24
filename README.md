@@ -41,8 +41,7 @@ git clone https://github.com/Arabella-Moss/my-first-mvp.git
    
 npm install
 
-## License
-This is a student project that was created at CodeOp, a full stack development bootcamp in Barcelona.
+
 
 
 

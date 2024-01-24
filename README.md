@@ -9,6 +9,8 @@ Ecolab is a platform designed to empower high school students (aged 13 - 18) to 
 - *Prompts*: Choose from a selection of prompts. 
 
 - *Sharing*: Share your designs with other users by uploading them on to the platform.
+
+- *Authentication*: Users can create an account.
  
 
 ## Technologies Used
